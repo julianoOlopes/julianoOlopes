@@ -1,7 +1,7 @@
 <h1> Juliano Orlandi Lopes - 23 Years old - Brazil/ES</h1>
 <div>
 <a href = "mailto:juliano.orlandi22@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" target="_blank" width = "45" height = "40"></a>
-<a href="https://www.linkedin.com/in/juliano-orlandi-lopes-591932172/ target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width = "45" height = "40" target="_blank"></a>   
+<a href="www.linkedin.com/in/juliano-olopes" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width = "45" height = "40" target="_blank"></a>   
 </div>
 
 <h2 align= "center" style="background-image: 'https://images.alphacoders.com/203/203543.jpg'">  Hey you... Finally awake..  <img src="https://i.ibb.co/gzfrPJF/9899178-small-removebg-preview.png" width="140" height="140" align = "middle"> </h2>
