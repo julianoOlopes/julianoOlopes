@@ -1,7 +1,7 @@
 <h1> Juliano Orlandi Lopes - 23 Years old - Brazil/ES</h1>
 <div>
-<a href = "mailto:juliano.orlandi22@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" target="_blank" width = "45" height = "40"></a>
-<a href="www.linkedin.com/in/juliano-olopes" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width = "45" height = "40" target="_blank"></a>   
+<a target="_blank" href="https://www.linkedin.com/in/juliano-olopes"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:juliano.orlandi22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 </div>
 
 <h2 align= "center" style="background-image: 'https://images.alphacoders.com/203/203543.jpg'">  Hey you... Finally awake..  <img src="https://i.ibb.co/gzfrPJF/9899178-small-removebg-preview.png" width="140" height="140" align = "middle"> </h2>
@@ -20,10 +20,10 @@ I'm excited about the Data Science area and I'm working on becoming a good profe
 - 💬 Ask me about Games<img title="Skyrim" alt="Skyrim" src="https://i.ibb.co/xm7GX6c/2591625-small-removebg-preview.png" width="22" height="22" align = "top" /> , anime, manga, everything in geek culture interests me, feel free to get in touch.
 
 (sorry for my english, google helped me hehe)
-
-Contact:
+<hr>
+<b><i> Contact: </i></b> <br>
 juliano.orlandi22@gmail.com <br>
-+55(28)999201332
++55(28)99920-1332
 
 
 
